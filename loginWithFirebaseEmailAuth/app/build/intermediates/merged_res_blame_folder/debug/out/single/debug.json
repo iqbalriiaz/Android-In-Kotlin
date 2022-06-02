@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-xxxhdpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-xxxhdpi/ic_profile_icon.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_ic_teacher_icon.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/ic_teacher_icon.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/layout_activity_student_dashboard.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iqbalriiaz.seuresearchers.app-merged_res-31:/layout_activity_student_dashboard.xml.flat",
+        "source": "com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-anydpi-v24_ic_profile_icon.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-anydpi-v24/ic_profile_icon.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-v24_people.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable-v24/people.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_dashboard_button_background.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/dashboard_button_background.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-v24_seulogo.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable-v24/seulogo.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-ldpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-ldpi/ic_profile_icon.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_button_background.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/layout_activity_teacher_dashboard.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_teacher_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_ic_team_icon.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/ic_team_icon.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-xhdpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-xhdpi/ic_profile_icon.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-hdpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-hdpi/ic_profile_icon.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-xxhdpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-xxhdpi/ic_profile_icon.png"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable_ic_proposals_icon.xml.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/drawable/ic_proposals_icon.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-merged_res-31:/drawable-mdpi_ic_profile_icon.png.flat",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-pngs-26:/drawable-mdpi/ic_profile_icon.png"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.iqbalriiaz.seuresearchers.app-mergeDebugResources-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/iqbalriiaz/.gradle/caches/transforms-3/4c48f25572b354d491ee1cfc24fa824f/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

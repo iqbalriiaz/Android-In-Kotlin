@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-30:/layout/activity_student_dashboard.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.iqbalriiaz.seuresearchers.app-mergeDebugResources-30:/layout/activity_student_dashboard.xml",
+        "source": "com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-30:/layout/activity_teacher_dashboard.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-33:/layout/activity_teacher_dashboard.xml"
+    }
+]
