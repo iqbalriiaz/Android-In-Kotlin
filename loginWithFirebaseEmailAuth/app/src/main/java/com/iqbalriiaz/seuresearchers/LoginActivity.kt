@@ -119,6 +119,8 @@ class LoginActivity : AppCompatActivity() {
         if(firebaseUser !=null){
             //user is already logged in
             startActivity(Intent(this, StudentDashboardActivity::class.java))
+            Toast.makeText(this, "Welcome Back",
+                Toast.LENGTH_SHORT).show()
             finish()
         }
     }
