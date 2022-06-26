@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-31:/layout/activity_teacher_dashboard.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-34:/layout/activity_teacher_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-31:/layout/activity_student_dashboard.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-34:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-mergeDebugResources-31:/layout/activity_signup.xml",
+        "source": "/home/iqbalriiaz/.gradle/daemon/7.3.3/com.iqbalriiaz.seuresearchers.app-main-34:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.iqbalriiaz.seuresearchers.app-mergeDebugResources-31:/layout/activity_signup.xml",
+        "source": "com.iqbalriiaz.seuresearchers.app-main-34:/layout/activity_signup.xml"
+    }
+]

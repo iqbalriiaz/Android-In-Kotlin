@@ -1,0 +1,320 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iqbalriiaz.seuresearchers"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+16
+17    <application
+17-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:6:5-38:19
+18        android:allowBackup="true"
+18-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:7:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:hardwareAccelerated="true"
+21-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:8:9-43
+22        android:icon="@mipmap/ic_launcher"
+22-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:9:9-43
+23        android:label="@string/app_name"
+23-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:10:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:11:9-54
+25        android:supportsRtl="true"
+25-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:12:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.SEUResearchers" >
+27-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:13:9-52
+28        <activity
+28-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:16:9-24:20
+29            android:name="com.iqbalriiaz.seuresearchers.LoginActivity"
+29-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:17:13-42
+30            android:exported="true" >
+30-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:18:13-36
+31            <intent-filter>
+31-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:19:13-23:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:20:17-69
+32-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:20:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:22:17-77
+34-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:22:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:26:9-28:40
+38            android:name="com.iqbalriiaz.seuresearchers.SignupActivity"
+38-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:27:13-43
+39            android:exported="false" />
+39-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:28:13-37
+40        <activity
+40-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:30:9-32:40
+41            android:name="com.iqbalriiaz.seuresearchers.TeacherDashboardActivity"
+41-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:31:13-53
+42            android:exported="false" />
+42-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:32:13-37
+43        <activity
+43-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:34:9-36:40
+44            android:name="com.iqbalriiaz.seuresearchers.StudentDashboardActivity"
+44-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:35:13-53
+45            android:exported="false" />
+45-->/home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:36:13-37
+46
+47        <service
+47-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:8:9-14:19
+48            android:name="com.google.firebase.components.ComponentDiscoveryService"
+48-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:9:13-84
+49            android:directBootAware="true"
+49-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+50            android:exported="false" >
+50-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:10:13-37
+51            <meta-data
+51-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:11:13-13:85
+52                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+52-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:12:17-116
+53                android:value="com.google.firebase.components.ComponentRegistrar" />
+53-->[com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:13:17-82
+54            <meta-data
+54-->[com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:11:13-13:85
+55                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+55-->[com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:12:17-126
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:13:17-82
+57            <meta-data
+57-->[com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:15:13-17:85
+58                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+58-->[com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:16:17-124
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:17:17-82
+60            <meta-data
+60-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
+61                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+61-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:15:13-17:85
+64                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+64-->[com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:16:17-113
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:17:17-82
+66            <meta-data
+66-->[com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
+67                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+67-->[com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:33:17-109
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:34:17-82
+69            <meta-data
+69-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+70                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+70-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+73                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+73-->[com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+75        </service>
+76
+77        <activity
+77-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+78            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+78-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+79            android:excludeFromRecents="true"
+79-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+82        <!--
+83            Service handling Google Sign-In user revocation. For apps that do not integrate with
+84            Google Sign-In, this service will never be started.
+85        -->
+86        <service
+86-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+87            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+87-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+88            android:exported="true"
+88-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+89            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+89-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+90            android:visibleToInstantApps="true" />
+90-->[com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+91
+92        <activity
+92-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
+93            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+93-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
+94            android:excludeFromRecents="true"
+94-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
+95            android:exported="true"
+95-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
+96            android:launchMode="singleTask"
+96-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+97-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
+98            <intent-filter>
+98-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
+99                <action android:name="android.intent.action.VIEW" />
+99-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:17-69
+99-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:25-66
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+101-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+102                <category android:name="android.intent.category.BROWSABLE" />
+102-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+102-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+103
+104                <data
+104-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+105                    android:host="firebase.auth"
+105-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+106                    android:path="/"
+106-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+107                    android:scheme="genericidp" />
+107-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+108            </intent-filter>
+109        </activity>
+110        <activity
+110-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
+111            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+111-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
+112            android:excludeFromRecents="true"
+112-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
+113            android:exported="true"
+113-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
+114            android:launchMode="singleTask"
+114-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+115-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
+116            <intent-filter>
+116-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
+117                <action android:name="android.intent.action.VIEW" />
+117-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:17-69
+117-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:25-66
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+119-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+120                <category android:name="android.intent.category.BROWSABLE" />
+120-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+120-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+121
+122                <data
+122-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+123                    android:host="firebase.auth"
+123-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+124                    android:path="/"
+124-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+125                    android:scheme="recaptcha" />
+125-->[com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+126            </intent-filter>
+127        </activity>
+128
+129        <provider
+129-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+130            android:name="com.google.firebase.provider.FirebaseInitProvider"
+130-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+131            android:authorities="com.iqbalriiaz.seuresearchers.firebaseinitprovider"
+131-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+132            android:directBootAware="true"
+132-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+133            android:exported="false"
+133-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+134            android:initOrder="100" />
+134-->[com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+135
+136        <activity
+136-->[com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+137            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+137-->[com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+139-->[com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+140
+141        <receiver
+141-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+142            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+142-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+143            android:enabled="true"
+143-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+144            android:exported="false" >
+144-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+145        </receiver>
+146
+147        <service
+147-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+148            android:name="com.google.android.gms.measurement.AppMeasurementService"
+148-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+149            android:enabled="true"
+149-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+150            android:exported="false" />
+150-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+151        <service
+151-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+152            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+152-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+153            android:enabled="true"
+153-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+155            android:permission="android.permission.BIND_JOB_SERVICE" />
+155-->[com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+156
+157        <meta-data
+157-->[com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+158            android:name="com.google.android.gms.version"
+158-->[com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+159            android:value="@integer/google_play_services_version" />
+159-->[com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+160
+161        <provider
+161-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+162            android:name="androidx.startup.InitializationProvider"
+162-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+163            android:authorities="com.iqbalriiaz.seuresearchers.androidx-startup"
+163-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+164            android:exported="false" >
+164-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+165            <meta-data
+165-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+166                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+166-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+167                android:value="androidx.startup" />
+167-->[androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+168            <meta-data
+168-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+169                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+169-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+170                android:value="androidx.startup" />
+170-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+171        </provider>
+172    </application>
+173
+174</manifest>

@@ -1,0 +1,647 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/iqbalriiaz/.gradle/caches/transforms-3/a24acf3454ddab15c90faef874ff0f15/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.material:material:1.6.1] /home/iqbalriiaz/.gradle/caches/transforms-3/911f3ddc0c1d8df74aa90ec6ec28a146/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2c8a406db43a90f92c11e06e1271bee3/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/d6e8d6f4b396a75ebd61f08079245eb2/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iqbalriiaz/.gradle/caches/transforms-3/268a8f2f377229dc75141f13841093b6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/b0dda469231927a42e213eccc6ca43ad/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1daee84bef3856e57b68296c4956ca42/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/08b9fd1eb68792d044d571bb96caf956/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ada31dae584d04936fd6a5a6da54cb34/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f206dc00cb387eb44d1709c627eb306f/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/1349dfdeb5addfb769f34a147c10c8b5/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d50431b08583ac15d90d65117d8a1ec/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a3a5da4b099f341f29777c8e22c0dde3/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6f39e81a2a866a3226ae4f7965ac852b/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/7ef5e26b92a768cf688e3add81d875e0/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/0c98d8f8c842811dbab1b70cdb5c7f0f/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1cdb28c9b28b8ca2f53458c9d7d5d703/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/595d1fdacd73658a587164e485850a5d/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/iqbalriiaz/.gradle/caches/transforms-3/193967b1b91821aa1171feb73829ebb4/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/32c7dbb93c223910fcd7d44e2d58517e/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/09418cbe3b2166101671236408aba9b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iqbalriiaz/.gradle/caches/transforms-3/ccac8157ec335a869d529071a47dc05e/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f5abb2bfb19ddda234e0f0ced5629bfe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6ed03acc483c7501732de82c8b20da45/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/39e742eea0d69b2b3b8e20ab50117c91/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /home/iqbalriiaz/.gradle/caches/transforms-3/0abf0db1721118835efe65385897067a/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/52b827e45c45c7731986fe0d8663eacd/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c8f3d179be65d57ba502ce412224b985/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d3764dbdd8766f70dfc4c362ea18f83/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2319068b51a99364c0ad2c55f48b8d59/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/faf97dcfa660c48a8668a2fa96f4661a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/94a381551601059769bfdcda8e8ec6cc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/bf0c9b435b7d56d14e2225dec5328d60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/cd1927a89ebb7f1c3a556a3dcc615779/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9a7d13788af5647694ed4abab3ab601c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/02c08d806eaf615b1b7c5cac08d0ffb6/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b4a1f5fdff8709e5d4abc2ee038c0fd3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e88c470c6185a8c233b53e52b6a303fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/5aac23ba2dc51fd9c48ec8b0474eb304/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f7496dea6c343f67e394d215d9102d18/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/65d1cc642bf8a08f2f547d0af36be43d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/8cd7cac2e9dc3dade1890edeb6b52ce7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6e75c48c103281a16b572cc17c10ad33/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/585cc2a4dfb3117b9d69bfd65b734d66/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a971cc43bfc4ad59930ab85a066c72f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/110aaa562c059db9b5d6a0143d4c0270/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b85466bc8bf4fbb452691d81c63eccc0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e556f858255089bb8de2e5e25893ac09/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/022113bae07c7ff59a76f4312898c87e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/5e567063d5c29a04384b4d1c36ffbbe2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/edfc6c9ddcf27878eb912dbea19fd118/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c4ad4920d163ff4929700d2b39870446/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:6:5-38:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.material:material:1.6.1] /home/iqbalriiaz/.gradle/caches/transforms-3/911f3ddc0c1d8df74aa90ec6ec28a146/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /home/iqbalriiaz/.gradle/caches/transforms-3/911f3ddc0c1d8df74aa90ec6ec28a146/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iqbalriiaz/.gradle/caches/transforms-3/268a8f2f377229dc75141f13841093b6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iqbalriiaz/.gradle/caches/transforms-3/268a8f2f377229dc75141f13841093b6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1daee84bef3856e57b68296c4956ca42/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1daee84bef3856e57b68296c4956ca42/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/08b9fd1eb68792d044d571bb96caf956/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/08b9fd1eb68792d044d571bb96caf956/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ada31dae584d04936fd6a5a6da54cb34/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ada31dae584d04936fd6a5a6da54cb34/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a3a5da4b099f341f29777c8e22c0dde3/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a3a5da4b099f341f29777c8e22c0dde3/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/0c98d8f8c842811dbab1b70cdb5c7f0f/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/0c98d8f8c842811dbab1b70cdb5c7f0f/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1cdb28c9b28b8ca2f53458c9d7d5d703/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1cdb28c9b28b8ca2f53458c9d7d5d703/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/595d1fdacd73658a587164e485850a5d/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/595d1fdacd73658a587164e485850a5d/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/iqbalriiaz/.gradle/caches/transforms-3/193967b1b91821aa1171feb73829ebb4/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/iqbalriiaz/.gradle/caches/transforms-3/193967b1b91821aa1171feb73829ebb4/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/32c7dbb93c223910fcd7d44e2d58517e/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/32c7dbb93c223910fcd7d44e2d58517e/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6e75c48c103281a16b572cc17c10ad33/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6e75c48c103281a16b572cc17c10ad33/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:10:9-41
+	android:hardwareAccelerated
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:8:9-43
+	android:roundIcon
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:13:9-52
+activity#com.iqbalriiaz.seuresearchers.LoginActivity
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.iqbalriiaz.seuresearchers.SignupActivity
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:27:13-43
+activity#com.iqbalriiaz.seuresearchers.TeacherDashboardActivity
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:31:13-53
+activity#com.iqbalriiaz.seuresearchers.StudentDashboardActivity
+ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml:35:13-53
+uses-sdk
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/iqbalriiaz/.gradle/caches/transforms-3/a24acf3454ddab15c90faef874ff0f15/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/iqbalriiaz/.gradle/caches/transforms-3/a24acf3454ddab15c90faef874ff0f15/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.6.1] /home/iqbalriiaz/.gradle/caches/transforms-3/911f3ddc0c1d8df74aa90ec6ec28a146/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/iqbalriiaz/.gradle/caches/transforms-3/911f3ddc0c1d8df74aa90ec6ec28a146/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2c8a406db43a90f92c11e06e1271bee3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2c8a406db43a90f92c11e06e1271bee3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/d6e8d6f4b396a75ebd61f08079245eb2/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/d6e8d6f4b396a75ebd61f08079245eb2/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iqbalriiaz/.gradle/caches/transforms-3/268a8f2f377229dc75141f13841093b6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iqbalriiaz/.gradle/caches/transforms-3/268a8f2f377229dc75141f13841093b6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/b0dda469231927a42e213eccc6ca43ad/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/b0dda469231927a42e213eccc6ca43ad/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1daee84bef3856e57b68296c4956ca42/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1daee84bef3856e57b68296c4956ca42/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/08b9fd1eb68792d044d571bb96caf956/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/08b9fd1eb68792d044d571bb96caf956/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ada31dae584d04936fd6a5a6da54cb34/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ada31dae584d04936fd6a5a6da54cb34/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f206dc00cb387eb44d1709c627eb306f/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f206dc00cb387eb44d1709c627eb306f/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/1349dfdeb5addfb769f34a147c10c8b5/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/1349dfdeb5addfb769f34a147c10c8b5/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d50431b08583ac15d90d65117d8a1ec/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d50431b08583ac15d90d65117d8a1ec/transformed/play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a3a5da4b099f341f29777c8e22c0dde3/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a3a5da4b099f341f29777c8e22c0dde3/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6f39e81a2a866a3226ae4f7965ac852b/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6f39e81a2a866a3226ae4f7965ac852b/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/7ef5e26b92a768cf688e3add81d875e0/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/7ef5e26b92a768cf688e3add81d875e0/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/0c98d8f8c842811dbab1b70cdb5c7f0f/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/0c98d8f8c842811dbab1b70cdb5c7f0f/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1cdb28c9b28b8ca2f53458c9d7d5d703/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/1cdb28c9b28b8ca2f53458c9d7d5d703/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/595d1fdacd73658a587164e485850a5d/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/595d1fdacd73658a587164e485850a5d/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/iqbalriiaz/.gradle/caches/transforms-3/193967b1b91821aa1171feb73829ebb4/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/iqbalriiaz/.gradle/caches/transforms-3/193967b1b91821aa1171feb73829ebb4/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/32c7dbb93c223910fcd7d44e2d58517e/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/32c7dbb93c223910fcd7d44e2d58517e/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/09418cbe3b2166101671236408aba9b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/09418cbe3b2166101671236408aba9b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iqbalriiaz/.gradle/caches/transforms-3/ccac8157ec335a869d529071a47dc05e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iqbalriiaz/.gradle/caches/transforms-3/ccac8157ec335a869d529071a47dc05e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f5abb2bfb19ddda234e0f0ced5629bfe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f5abb2bfb19ddda234e0f0ced5629bfe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6ed03acc483c7501732de82c8b20da45/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6ed03acc483c7501732de82c8b20da45/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/39e742eea0d69b2b3b8e20ab50117c91/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/39e742eea0d69b2b3b8e20ab50117c91/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /home/iqbalriiaz/.gradle/caches/transforms-3/0abf0db1721118835efe65385897067a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/iqbalriiaz/.gradle/caches/transforms-3/0abf0db1721118835efe65385897067a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/52b827e45c45c7731986fe0d8663eacd/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/iqbalriiaz/.gradle/caches/transforms-3/52b827e45c45c7731986fe0d8663eacd/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c8f3d179be65d57ba502ce412224b985/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c8f3d179be65d57ba502ce412224b985/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d3764dbdd8766f70dfc4c362ea18f83/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/2d3764dbdd8766f70dfc4c362ea18f83/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2319068b51a99364c0ad2c55f48b8d59/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2319068b51a99364c0ad2c55f48b8d59/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/faf97dcfa660c48a8668a2fa96f4661a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/faf97dcfa660c48a8668a2fa96f4661a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/94a381551601059769bfdcda8e8ec6cc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/94a381551601059769bfdcda8e8ec6cc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/bf0c9b435b7d56d14e2225dec5328d60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/bf0c9b435b7d56d14e2225dec5328d60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/cd1927a89ebb7f1c3a556a3dcc615779/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/cd1927a89ebb7f1c3a556a3dcc615779/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9a7d13788af5647694ed4abab3ab601c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9a7d13788af5647694ed4abab3ab601c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/02c08d806eaf615b1b7c5cac08d0ffb6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/02c08d806eaf615b1b7c5cac08d0ffb6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b4a1f5fdff8709e5d4abc2ee038c0fd3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b4a1f5fdff8709e5d4abc2ee038c0fd3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/iqbalriiaz/.gradle/caches/transforms-3/ac279cf91c125d2d62a7e999ce7e94c4/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e88c470c6185a8c233b53e52b6a303fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e88c470c6185a8c233b53e52b6a303fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/5aac23ba2dc51fd9c48ec8b0474eb304/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/5aac23ba2dc51fd9c48ec8b0474eb304/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f7496dea6c343f67e394d215d9102d18/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/f7496dea6c343f67e394d215d9102d18/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/65d1cc642bf8a08f2f547d0af36be43d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/65d1cc642bf8a08f2f547d0af36be43d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/8cd7cac2e9dc3dade1890edeb6b52ce7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/8cd7cac2e9dc3dade1890edeb6b52ce7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6e75c48c103281a16b572cc17c10ad33/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/6e75c48c103281a16b572cc17c10ad33/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/585cc2a4dfb3117b9d69bfd65b734d66/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/585cc2a4dfb3117b9d69bfd65b734d66/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a971cc43bfc4ad59930ab85a066c72f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a971cc43bfc4ad59930ab85a066c72f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/110aaa562c059db9b5d6a0143d4c0270/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iqbalriiaz/.gradle/caches/transforms-3/110aaa562c059db9b5d6a0143d4c0270/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b85466bc8bf4fbb452691d81c63eccc0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b85466bc8bf4fbb452691d81c63eccc0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e556f858255089bb8de2e5e25893ac09/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e556f858255089bb8de2e5e25893ac09/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/022113bae07c7ff59a76f4312898c87e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/022113bae07c7ff59a76f4312898c87e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/5e567063d5c29a04384b4d1c36ffbbe2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/5e567063d5c29a04384b4d1c36ffbbe2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/edfc6c9ddcf27878eb912dbea19fd118/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/edfc6c9ddcf27878eb912dbea19fd118/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c4ad4920d163ff4929700d2b39870446/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iqbalriiaz/.gradle/caches/transforms-3/c4ad4920d163ff4929700d2b39870446/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		ADDED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iqbalriiaz/AndroidStudioProjects/Research-Project/SEUResearchers/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/53cebf54aeb04627fc3d83729a433ae1/transformed/firebase-auth-ktx-21.0.5/AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/9ff728b58d4cc083142690382b194d75/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:12:17-126
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e05a86c4945b571e39ca0dab0dfcb5ff/transformed/play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/d0281476ed589dd5e3c10eafb5beae34/transformed/firebase-database-ktx-20.0.5/AndroidManifest.xml:16:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/12552edbaa383f152a66ab210208dc59/transformed/firebase-auth-21.0.5/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/84116c85671e7943af03360f3eea6a17/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.5] /home/iqbalriiaz/.gradle/caches/transforms-3/65aa54e66f27060965f5c9cc8257db06/transformed/firebase-database-20.0.5/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/b58bd29bf971dbbf1a17f00542ca551f/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e2cd3d0f6694e1b7d56e12f36f7d7dfa/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/a4be9f030618b114203f9998cb283d58/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/20354176abf161e874f80833e75cd68d/transformed/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /home/iqbalriiaz/.gradle/caches/transforms-3/253430470e5286745c079f1a917e1e8e/transformed/firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iqbalriiaz/.gradle/caches/transforms-3/b0782cbdb3b183cf7a6661cd49fc11c7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/7618eb999cefde80aaaca973ab8629d2/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2a992ac502519e341705c1b0df4d220f/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/4bd953391602d0d0e46f7a6074309316/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/e0f3dcc53c503c8f860bceba7b5eda36/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iqbalriiaz/.gradle/caches/transforms-3/6af8efc0276e5bd1b781978bb7b6cd1d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iqbalriiaz/.gradle/caches/transforms-3/2b50d88cc6cfe248191da37ba60ef180/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

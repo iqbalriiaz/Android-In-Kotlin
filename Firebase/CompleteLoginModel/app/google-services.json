@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26399586167",
+    "firebase_url": "https://seu-researchers-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "seu-researchers",
+    "storage_bucket": "seu-researchers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26399586167:android:ac86e9a3436632611c5372",
+        "android_client_info": {
+          "package_name": "com.iqbalriiaz.seuresearchers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26399586167-sroph9ulaj2ecib6pu7mtprt6andt95f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqbalriiaz.seuresearchers",
+            "certificate_hash": "9bb583142273ee08cdb05b35f7c4df1082705123"
+          }
+        },
+        {
+          "client_id": "26399586167-6727obmp5jaea5kbvpmop0bevtminogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaaVHdpiPk4a6uUzFDoGpiwu6NiFTpwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26399586167-6727obmp5jaea5kbvpmop0bevtminogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
